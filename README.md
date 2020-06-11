@@ -1,4 +1,5 @@
 # Chinese the Right Way
+This project is currently on an indefinite hiatus. New features will not be added until the project is resumed.
 
 ## Introdcution
 This website is an implementation of Dr. Qiang Zhao's "Chiense the Right Way" learning 
